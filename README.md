@@ -8,6 +8,8 @@ For detailed requirements and/or other info of this capstone, please refer to th
 What this project does:
 1. The Main.py will create a table containing the cubes' names, topics, dimensions, measures etc.;
 2. The Mapping.py will map the links between cubes and dimensions, cubes and measures etc.;
-3. In the Visualization.py, I used an example URL to fetch state population data and made a choropleth map out of it.
+3. In the Visualization.py, I used an example URL to fetch state population data and made a choropleth map out of it. (*I chose choropleth map because this cube is about population)
+
+I also attached screenshots of the database and choropleth map generated.
 
 * I have only learned Python for exact two months when I finally finished this project. So it's quite basic and simple. 
